@@ -1,6 +1,6 @@
 <h1>Jogo da velha #️</h1>
 
-⏳ Status: polishing the style.
+⏳ Status: finished.
 
 ## 🎮 #️ Classic game tic-tac-toe 
  
